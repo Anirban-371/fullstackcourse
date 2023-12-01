@@ -5,7 +5,7 @@ $(document).ready(function(){
 
 
 function stopLearning(){
-    console.log("new log");
+    console.log(" old log");
 }
 $("p").click(function(){
     $(this).addClass("highlight");
